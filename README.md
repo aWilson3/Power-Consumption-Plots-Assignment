@@ -1,3 +1,6 @@
+## The below assignment instructions were provided by instructors of the Data Science specialization on Coursera.org
+***
+
 ## Introduction
 
 This assignment uses data from
